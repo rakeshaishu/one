@@ -1,1 +1,38 @@
-1
+Hi ..
+This is Rakesh.,
+i am here work on some basic linux command like,
+cd     =>  To change the directory
+cd     =>  To previous directory
+
+pwd   =>  current working directory
+
+touch   => to create a file
+
+mkdir   => to create a new directory
+rmdir   => to remove a directory
+clear
+echo
+cp
+cp
+wget
+cat
+cal
+free
+man ls
+who
+head
+nano
+vi
+vim
+date
+uptime
+hostname
+zip
+tar
+diff
+vim diff
+find
+histroy
+grep
+sed
+apt-get

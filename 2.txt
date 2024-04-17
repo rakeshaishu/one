@@ -1,0 +1,3 @@
+hello RakeshAishwarya
+Welcome to ubuntu ...
+Here we are going learn some basic about Linux command 
